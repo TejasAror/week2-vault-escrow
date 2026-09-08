@@ -1,4 +1,4 @@
-# Solana Vault & Escrow — Q3 2026 Builders Cohort Week 2
+# Solana Vault & Escrow
 
 A Solana Anchor implementation of two on-chain programs:
 
