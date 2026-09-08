@@ -8,6 +8,7 @@ skip-lint = false
 
 [programs.localnet]
 q3_26_vault = "aNksHVU3gU1mjCPtTBsVk9S7qokAUvXfotB2jBxQQvv"
+escrowq32026 = "52dhECAbz5EmxYJduegFtf33LojaEGjVKbGPdMu3rd9d"
 
 [provider]
 cluster = "localnet"
